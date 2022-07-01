@@ -19,5 +19,4 @@ form.addEventListener('submit', (e) => {
     .then(response => response.text())
     .then(text => factDiv.innerHTML = text)
     .catch(e=>console.log(e));
-    console.log()
 }) 
