@@ -43,9 +43,6 @@ section
   max-width: 450px
   margin: 0 auto
 
-.logo
-	
-
 form
   width: 100%
   background-color: rgb(42, 41, 42)
